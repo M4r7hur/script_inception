@@ -21,3 +21,7 @@ sudo chmod +x ~/.docker/cli-plugins/docker-compose
 docker compose version
 sudo apt install -y make
 sudo chmod 777 /var/run/docker.sock
+mkdir data
+mkdir data/wordpress
+mkdir data/nginx
+mkdir data/mariadb
